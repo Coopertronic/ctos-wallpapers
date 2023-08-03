@@ -1,0 +1,49 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "matthew@copertronic.co.uk",
+                "Name": "Matthew Phillip Cooper",
+                "Name[ar]": "Matthew Phillip Cooper",
+                "Name[az]": "Matthew Phillip Cooper",
+                "Name[be]": "Matthew Phillip Cooper",
+                "Name[ca@valencia]": "Matthew Phillip Cooper",
+                "Name[ca]": "Matthew Phillip Cooper",
+                "Name[cs]": "Matthew Phillip Cooper",
+                "Name[de]": "Matthew Phillip Cooper",
+                "Name[en_GB]": "Matthew Phillip Cooper",
+                "Name[es]": "Matthew Phillip Cooper",
+                "Name[eu]": "Matthew Phillip Cooper",
+                "Name[fi]": "Matthew Phillip Cooper",
+                "Name[fr]": "Matthew Phillip Cooper",
+                "Name[gl]": "Matthew Phillip Cooper",
+                "Name[ia]": "Matthew Phillip Cooper",
+                "Name[it]": "Matthew Phillip Cooper",
+                "Name[ka]": "Matthew Phillip Cooper",
+                "Name[ko]": "Matthew Phillip Cooper",
+                "Name[lt]": "Matthew Phillip Cooper",
+                "Name[nl]": "Matthew Phillip Cooper",
+                "Name[nn]": "Matthew Phillip Cooper",
+                "Name[pl]": "Matthew Phillip Cooper",
+                "Name[pt]": "Matthew Phillip Cooper",
+                "Name[pt_BR]": "Matthew Phillip Cooper",
+                "Name[ro]": "Matthew Phillip Cooper",
+                "Name[ru]": "Matthew Phillip Cooper",
+                "Name[sk]": "Matthew Phillip Cooper",
+                "Name[sl]": "Matthew Phillip Cooper",
+                "Name[sv]": "Matthew Phillip Cooper",
+                "Name[tr]": "Matthew Phillip Cooper",
+                "Name[uk]": "Matthew Phillip Cooper",
+                "Name[x-test]": "xxMatthew Phillip Cooperxx",
+                "Name[zh_CN]": "Matthew Phillip Cooper"
+            }
+        ],
+        "Id": "Red Dragon",
+        "License": "LGPLv3",
+        "Name": "Red Dragon",
+        "Name[en_GB]": "Red Dragon",
+        "Name[id]": "Red Dragon",
+        "Name[x-test]": "xxRed Dragonxx",
+        "Name[zh_CN]": "Red Dragon"
+    }
+}
