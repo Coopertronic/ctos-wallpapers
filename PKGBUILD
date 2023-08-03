@@ -1,7 +1,7 @@
 # Maintainer: Matthew Phillip Cooper <matthew@coopertronic.co.uk>
 pkgname=ctos-wallpapers
 _destname1="/usr"
-pkgver=1
+pkgver=1.r2.5bb0c61
 pkgrel=1
 pkgdesc="This installs the Neon Knights global theme for KDE plasma by ju1464."
 arch=('any')
